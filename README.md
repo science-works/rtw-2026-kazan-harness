@@ -1,3 +1,14 @@
+> [!NOTE]
+> **Hackathon submission snapshot**
+>
+> This repository preserves the version submitted to **Reinvent the Wheel, 16–18 October 2026**, hosted by [Science Works](https://science.works) and [Inherent Laboratories](https://inherentlabs.ai/).
+>
+> **For the latest version, issues and contributions, visit the original project: [persistentepiphany/harness-hackathon](https://github.com/persistentepiphany/harness-hackathon).**
+>
+> Submitted version: [`510ea9b`](https://github.com/science-works/rtw-2026-kazan-harness/tree/510ea9bc2c916cc3fb99e3c3c676ab4e7579c50e). This notice was added after submission. Nothing else in the repository has changed.
+
+---
+
 # Prediction Assurance Harness
 
 Web UI: https://persistentepiphany--pah-web.us-east.modal.run
